@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595881210 source:/home/a/Επιφάνεια εργασίας/mycalendar/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
